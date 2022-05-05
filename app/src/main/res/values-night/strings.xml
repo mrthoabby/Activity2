@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_show_idLetterDefault">E</string>
+    <string name="txt_show_info_DataProvider">Binding</string>
+</resources>

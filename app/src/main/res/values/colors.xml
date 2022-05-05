@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green">#00791c</color>
+    <color name="violet">#ff0057</color>
+    <color name="yellowblue">#b59250</color>
+    <color name="green_shadow">#002f18</color>
+    <color name="green_light">#00f96c</color>
+    <color name="vino_tinto">#a60600</color>
+    <color name="gray_blue">#2b2b2b</color>
+</resources>

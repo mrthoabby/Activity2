@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyMail</string>
+    <string name="txt_show_idLetterDefault">E</string>
+    <string name="txt_show_info_DataProvider">Binding</string>
+    <string name="title_activity_show_email">ShowEmailActivity</string>
+    <!-- Strings used for fragments for navigation -->
+
+</resources>
